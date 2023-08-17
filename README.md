@@ -32,3 +32,8 @@ For I types, 6bit opcode, 5bit rs code, 5bit rt code and 16bits are used as addr
 
 For J types, first 6bits are used for opcode and rest are used for branch destination.
 ![image](https://github.com/dylee0907/RISC_MIPS_CPU/assets/79738681/66d52631-37b4-41a4-ae17-830a4b23c92c)
+
+
+Vivado simulation waveform 
+![image](https://github.com/dylee0907/RISC_MIPS_CPU/assets/79738681/d4b71587-8f77-4d10-ad5d-ba21aee4fdb8)
+
